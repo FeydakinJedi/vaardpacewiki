@@ -9,6 +9,10 @@ Current Year: 26,350 FaeDraconis
 Vaardspace is a science fantasy RPG setting. It's inclusive of other settings like Forgotten Realms, Eberron, Dark Sun, and Grayhawk. It's a way for you to take your favorite character concepts and drop them into a gonzo setting. It's not just built by me, it's built by the players and what they bring to the game.
 
 The word Vaardspace refers to the setting of the game, but within the game lore, Vaardspace is a region of the galaxy protected by the Emerald Armada.
+
+[History](History.md)
+[MajorFactions](MajorFactions.md)
+[Major Factions](Major\ Factions.md)
 ## Cosmology
 Most of the action takes place in a fantasy version of our galaxy. In the setting, it's called The Greater Sagittarian Sphere. More on spheres later.
 
