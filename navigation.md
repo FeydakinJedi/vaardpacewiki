@@ -4,4 +4,4 @@
 [Major Factions](MajorFactions.md)
 [History](History.md)
 
-[gimmick:theme](slate)
+[gimmick:theme](solar)
