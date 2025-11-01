@@ -8,7 +8,11 @@
 
   * [Emerald Armada](Factions/EmeraldArmada.md)
   * [Neogi Hegemony](Factions/NeogiHegemony.md)
-  * [SubMenu Item 3](subitem3.md)
-  * [SubMenu Item 3](subitem3.md)
+  * [Dragons](Factions/Dragons.md)
+  * [Star Cogs](StarCogs.md)
+  * [Dumathoin's Prospectors](Factions/DumathoinsProspectors.md)
+  * [The Illithid](Factions/Illithid.md)
+  * [Yapa Intersphereal Logistics](Factions/YapaInterspherealLogistics.md)
+  * [The Regulators](Factions/TheRegulators.md)
 
 [gimmick:theme](slate)
