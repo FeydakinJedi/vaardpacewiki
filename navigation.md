@@ -6,8 +6,8 @@
 - - - -
 [Factions]()
 
-  * [Emerald Armada](Facionts/EmeraldArmada.md)
-  * [Neogi Hegemony](Facitons/NeogiHegemony.md)
+  * [Emerald Armada](Factions/EmeraldArmada.md)
+  * [Neogi Hegemony](Factions/NeogiHegemony.md)
   * [SubMenu Item 3](subitem3.md)
   * [SubMenu Item 3](subitem3.md)
 
