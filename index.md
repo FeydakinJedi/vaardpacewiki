@@ -92,4 +92,4 @@ Dragons have lived in the material plane as long as the plane has existed. Drago
 
 By various reckonings, other life appeared between one hundred million and five billion years before the Disconcordance. The earliest spacefaring species include the Arcane and the Juna. Both of these civilizations had faded by at least two hundred thousand years ago.
 
-[gimmick:theme](slate)
+[gimmick:theme (inverse: false)](spacelab)

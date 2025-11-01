@@ -3,5 +3,3 @@
 [Home](index.md)  
 [Major Factions](MajorFactions.md)  
 [History](History.md)
-
-[gimmick:theme](slate)
