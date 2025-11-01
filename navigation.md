@@ -14,4 +14,4 @@
 - - - -
 [Menu Item 3](item3.md)
 
-[gimmick:theme](solar)
+[gimmick:theme](slate)
