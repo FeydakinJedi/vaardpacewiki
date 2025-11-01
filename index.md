@@ -1,6 +1,6 @@
-Welcome to Vaardspace
+Welcome to Vaardspace  
 =
-Current Year: 26,350 FaeDraconis
+Current Year: 26,350 FaeDraconis  
 
 *We, the High Elves of the Emerald Enclave, in order to preserve the Fey Lifeblood, Causal Integrity, and Concordant Spacetime of the Greater Sagittarian Sphere and the Region of Vaardspace, do hereby pledge our allegiance to the Dragon-kin, known as The Children of Oshumare, and hereby commit ourselves to defend the temporal integrity of the Material Plane, to Protect the Greater Sphere from threats Near and Far, for the benefit of All Creatures who seek life and prosperity herein.*  
 --Opening paragraph from the Vaardspace Protectorate Agreement.
@@ -8,9 +8,6 @@ Current Year: 26,350 FaeDraconis
 Vaardspace is a science fantasy RPG setting. It's inclusive of other settings like Forgotten Realms, Eberron, Dark Sun, and Grayhawk. It's a way for you to take your favorite character concepts and drop them into a gonzo setting. It's not just built by me, it's built by the players and what they bring to the game.
 
 The word Vaardspace refers to the setting of the game, but within the game lore, Vaardspace is a region of the galaxy protected by the Emerald Armada.
-
-[History](History.md)  
-[MajorFactions](MajorFactions.md)
 ## Cosmology
 Most of the action takes place in a fantasy version of our galaxy. In the setting, it's called The Greater Sagittarian Sphere. More on spheres later.
 
@@ -90,5 +87,3 @@ The energy Vecna siphoned away shattered the barriers between planes of existenc
 Dragons have lived in the material plane as long as the plane has existed. Dragons who possessed the innate ability to traverse intersphereal space explored the cosmos as soon as they were physically capable. 
 
 By various reckonings, other life appeared between one hundred million and five billion years before the Disconcordance. The earliest spacefaring species include the Arcane and the Juna. Both of these civilizations had faded by at least two hundred thousand years ago.
-
-[gimmick:theme (inverse: false)](spacelab)
