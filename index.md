@@ -1,5 +1,5 @@
-Welcome to Vaardspace
-===================================
+# Welcome to Vaardspace
+
 Current Year: 26,350 FaeDraconis  
 
 *We, the High Elves of the Emerald Enclave, in order to preserve the Fey Lifeblood, Causal Integrity, and Concordant Spacetime of the Greater Sagittarian Sphere and the Region of Vaardspace, do hereby pledge our allegiance to the Dragon-kin, known as The Children of Oshumare, and hereby commit ourselves to defend the temporal integrity of the Material Plane, to Protect the Greater Sphere from threats Near and Far, for the benefit of All Creatures who seek life and prosperity herein.*  
