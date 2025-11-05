@@ -1,6 +1,6 @@
 # Vaardspace Wiki
 
-[Home](index.md)
+[Intro](index.md)
 - - - -
 [Current Events and History](CurrentEventsAndHistory.md)
 - - - -
